@@ -6,7 +6,7 @@ First, you should clone it to your local PC.
 ```
 git clone https://github.com/LinJiangEL/Translate.git
 ```
-And then, you can run command as follows(`If you are in linux, please run it with **sudo**`):
+And then, you can run command as follows(**If you are in linux, please run it with `sudo`**):
 ```
 cd Translate
 python3 setup.py build
