@@ -19,7 +19,6 @@ If you can support us, we will so thanks to you!
 # Join us
 We are Explorer Network Lab. members. If you want to join us, please use the contact.  
 ```
-Contact:
 QQ      : 1633251707
 Email   : linjiangxv101@qq.com
 QQGroup : 674914317 (Explorer Network Lab. 扩招A部)
