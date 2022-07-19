@@ -6,13 +6,13 @@ First, you should clone it to your local PC.
 ```
 git clone https://github.com/LinJiangEL/Translate.git
 ```
-And then, you can run command as follows, **If you are in linux, please run it with `sudo`**:
+And then, you can run command as follows, **If you are in Linux, please run it with `sudo`!**:
 ```
 cd Translate
 python3 setup.py build
 python3 setup.py install
 ```
-So much for this, now you can run `translate` to use it.  
+So much for this, now you can run `translate` to use it. **If you are in Windows, please run it with Win+R and press Enter after inputting 'translate'!**
 Wish you have a good time!  
 If you can support us, we will so thanks to you!  
   
