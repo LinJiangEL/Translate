@@ -1,6 +1,9 @@
 # Translate
 This is an translate tool with python3. It will more powerful in the futural development.  
 
+# Update:  
+After my fixed, now it can run in all Windows NT Frame.  
+
 # Installion
 First, you should clone it to your local PC.  
 ```
