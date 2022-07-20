@@ -21,6 +21,7 @@ elif sys.platform == "linux":
                 sudo mv translate /usr/bin && 
                 sudo chmod 777 /usr/bin/translate
               """
+    ignore = False
 else:
     sys.exit(f"\033[31mSorry! This execute cannot run on {sys.platform} !"
              f"Your platform: {sys.platform}"
