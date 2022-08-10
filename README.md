@@ -1,5 +1,7 @@
 # Translate
 This is an translate tool with python3. It will more powerful in the futural development.  
+Copyright ©2022 LinJiang-XV101 & Explorer Network Lab. All rights reserved.  
+版权所有 ©2022 临江词客 & 探索实验室网络安全组 保留所有权利。
 
 # Update
 After my fixed, now it can run in all Windows NT Frame.  
